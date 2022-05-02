@@ -1,4 +1,4 @@
-# Google Developer Student Club - Kalaignar Karunaanidhi Institute of Technology
+# Google Developer Student Club - Kalaignar Karunanidhi Institute of Technology
 
 <!--
 
